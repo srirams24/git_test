@@ -1,0 +1,5 @@
+git config --global user.name "Sriram Sekar"
+git config --global user.email "124426883+srirams24@users.noreply.github.com"
+git config --global init.defaultBranch main
+git config --global pull.rebase false
+git config --global core.editor "code --wait"
